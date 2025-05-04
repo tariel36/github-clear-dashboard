@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         GitHub Clear Dashboard
 // @description  Removes trash from github dashboard.
-// @version      1.0.0
+// @version      1.0.1
 // @author       tariel36
 // @namespace    https://github.com/tariel36/github-clear-dashboard
 // @match        https://github.com/

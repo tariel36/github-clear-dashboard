@@ -22,6 +22,16 @@ straightforward as possible.
 
 ```
 
+## [Unreleased] [1.0.1] - 2025-05-04
+
+### Added
+
+- Images to readme;
+
+### Changed
+ 
+### Fixed
+
 ## [1.0.0] - 2025-05-04
  
 ### Added
